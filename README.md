@@ -1,2 +1,2 @@
 # Receipes_Website
-Showcasing basic html and CSS
+Showcasing basic Html and CSS
